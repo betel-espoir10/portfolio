@@ -1,4 +1,4 @@
-<h1>Hi, I'm BETEL Espoir! <br/><a href="https://github.com/bétel-espoir10">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Infographe</a>, <a href="https://www.youtube.com/c/joshmadakor">Createur de contenus</a></h1>
+<h1>Hi, I'm BETEL Espoir! <br/><a href="https://github.com/bétel-espoir10">Programmer</a>, <a href="https://www.linkedin.com/in/betelespoir/">Infographe</a>, <a href="https://www.youtube.com/c/betelespoir">Createur de contenus</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -32,17 +32,15 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://share.google/e1w3wKPer2ONGk2fI" />][facebook]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="betelespoir | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="betelespoir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="betelespoir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="betelespoir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://www.linkedin.com/in/betel-espoir96/
-[facebook]: https://www.facebook.com/espoir.betel.2025/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 
 **betelespoir10/betelespoir10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
